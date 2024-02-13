@@ -1,0 +1,59 @@
+Rois LOS ANDES
+
+Pruebas random
+Image shape: (4763, 6191, 3)
+
+
+
+
+l = 
+roi position: 514, 1084
+roi size: 2660 470
+
+ll =
+roi position: 514, 1529
+roi size: 2660 470
+
+lll = 
+roi position: 514, 2078
+roi size: 2660 470
+
+aVR = 
+roi position: 514, 2549
+roi size: 2660 470
+
+aVL = 
+roi position: 514, 3005
+roi size: 2660 470
+
+aVF = 
+roi position: 514, 3447
+roi size: 2660 470
+
+2 ll = 
+roi position: 514, 4071
+roi size: 2660 470
+
+v1 = 
+roi position: 3300, 1083
+roi size: 2710 520
+
+v2 = 
+roi position: 3300, 1616
+roi size: 2710 520
+
+v3 = 
+roi position: 3300, 2180
+roi size: 2710 520
+
+v4 = 
+roi position: 3300, 2623
+roi size: 2710 520
+
+v5 = 
+roi position: 3300, 3063
+roi size: 2710 520
+
+v6 = 
+roi position: 3300, 3524
+roi size: 2710 520
